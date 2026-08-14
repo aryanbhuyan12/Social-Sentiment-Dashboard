@@ -9,7 +9,7 @@ feedparser
 requests
 fpdf2
 pypdf
-python-docx
+docx
 youtube-comment-downloader
 deep-translator
-langdetectgit
+langdetect
